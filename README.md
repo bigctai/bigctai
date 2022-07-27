@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bigctai
 - 👀 I’m interested in Software Engineering and Machine Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any websites
 - 📫 How to connect with me: LinkedIn: @https://www.linkedin.com/in/christopher-tai-6288b6a9/ or email: @christai100154@gmail.com
 
